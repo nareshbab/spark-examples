@@ -1,0 +1,23 @@
+# Created by .ignore support plugin (hsz.mobi)
+*.class
+*.log
+# SBT Ignore Rules
+.cache
+.history
+.lib/
+dist/*
+target/
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+# IntelliJ IDE Specific Ignore Rules
+.idea/
+project/target/
+project/project/
+# Scala IDE Specific Ignore Rules
+*.scala_dependencies
+*.worksheet
+# Mac OSX Specific
+*.DS_Store
+
