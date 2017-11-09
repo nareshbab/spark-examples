@@ -15,6 +15,9 @@ project/plugins/project/
 .idea/
 project/target/
 project/project/
+data/
+metastore_db/
+h2ologs/
 # Scala IDE Specific Ignore Rules
 *.scala_dependencies
 *.worksheet
